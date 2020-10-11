@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/LetsTN/Cursos-e-afins">
-    <img src="img.png" alt="Logo" width="80" height="80">
+    <img src="img.png" alt="Logo" width="100" height="100">
   </a>
 
   <h1 align="center">Cursos e Afins</h1>
